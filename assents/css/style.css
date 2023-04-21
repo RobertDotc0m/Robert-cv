@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poltawski+Nowy:wght@500&display=swap");
+
+body {
+  background-image: url(../img/fondo.jpeg);
+  background-size: cover;
+}
+
+.div1 {
+  text-align: center;
+
+  color: white;
+  font-family: Poltawski Nowy;
+  padding: 150px;
+  background-image: url(../img/div1.jpg);
+  background-position: initial;
+}
+
+.div2 {
+  text-align: center;
+  margin-top: 5px;
+
+  color: aliceblue;
+  font-family: Poltawski Nowy;
+}
+.div3 {
+  text-align: center;
+  margin-top: 100px;
+  color: aliceblue;
+  font-family: Poltawski Nowy;
+}
+.div5 {
+  text-align: center;
+  margin-top: 100px;
+  color: aliceblue;
+  font-family: Poltawski Nowy;
+}
